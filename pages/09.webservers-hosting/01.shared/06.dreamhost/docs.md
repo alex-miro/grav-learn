@@ -26,6 +26,8 @@ Open the Users panel. Every Dreamhost user can have different access levels. Set
 
 At the time of writing the default PHP CLI version is 5.5, so you don’t need to do anything to make the Grav CLI tools work properly.
 
+Please note that the  PHP version in your shell environment could differ from that of your website. To install and configure Grav you need the correct PHP version in your shell. Refer to [Dreamhost documentation](https://help.dreamhost.com/hc/en-us/articles/214202148-How-do-I-change-the-PHP-version-my-shell-uses-) for detail.
+
 ## Install and Test Grav
 
 When you add a new domain, Dreamhost creates a folder for it under your account folder.
